@@ -1,7 +1,7 @@
 babel==2.12.1
 certifi==2022.12.07
 feedgen==0.9.0
-flask==2.2.3
+flask==2.2.5
 flask-assets==2.0
 flask-caching==2.0.2
 flask-flatpages==0.8.1
